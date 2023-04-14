@@ -6,8 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="git_add.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/AJ_QD_Git/git_add.vi"/>
 	<Item Name="git_commit.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/AJ_QD_Git/git_commit.vi"/>
+	<Item Name="git_options_dialog.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/AJ_QD_Git/git_options_dialog.vi"/>
 	<Item Name="git_push.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/AJ_QD_Git/git_push.vi"/>
-	<Item Name="QD_git_add.vi" Type="VI" URL="../QD_git_add.vi"/>
-	<Item Name="QD_git_commit.vi" Type="VI" URL="../QD_git_commit.vi"/>
-	<Item Name="QD_git_push.vi" Type="VI" URL="../QD_git_push.vi"/>
+	<Item Name="QD_git.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/AJ_QD_Git/QD_git.vi"/>
 </Library>
